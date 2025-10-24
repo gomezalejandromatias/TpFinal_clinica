@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Dominio
 {
-    internal class MedicoUsuario
+    public class MedicoUsuario: Usuario
     {
+
+        public Medico Medico { get; set; } 
+
+
     }
 }
