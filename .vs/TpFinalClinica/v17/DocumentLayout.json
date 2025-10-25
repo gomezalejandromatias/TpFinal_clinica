@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Pc\\Documents\\Repositorios de github\\TpFinalClinica\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1A9D7CFD-FEB8-48A8-8895-04B8886A7475}|TpFinalClinica\\TpFinalClinica.csproj|c:\\users\\pc\\documents\\repositorios de github\\tpfinalclinica\\tpfinalclinica\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1A9D7CFD-FEB8-48A8-8895-04B8886A7475}|TpFinalClinica\\TpFinalClinica.csproj|solutionrelative:tpfinalclinica\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9D7CFD-FEB8-48A8-8895-04B8886A7475}|TpFinalClinica\\TpFinalClinica.csproj|c:\\users\\pc\\documents\\repositorios de github\\tpfinalclinica\\tpfinalclinica\\mimaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{1A9D7CFD-FEB8-48A8-8895-04B8886A7475}|TpFinalClinica\\TpFinalClinica.csproj|solutionrelative:tpfinalclinica\\mimaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1A9D7CFD-FEB8-48A8-8895-04B8886A7475}|TpFinalClinica\\TpFinalClinica.csproj|c:\\users\\pc\\documents\\repositorios de github\\tpfinalclinica\\tpfinalclinica\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{1A9D7CFD-FEB8-48A8-8895-04B8886A7475}|TpFinalClinica\\TpFinalClinica.csproj|solutionrelative:tpfinalclinica\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83FF995B-4E5F-4353-9A94-9AB61576CC58}|Dominio\\Dominio.csproj|c:\\users\\pc\\documents\\repositorios de github\\tpfinalclinica\\dominio\\turnotrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83FF995B-4E5F-4353-9A94-9AB61576CC58}|Dominio\\Dominio.csproj|solutionrelative:dominio\\turnotrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,6 +39,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\Repositorios de github\\TpFinalClinica\\TpFinalClinica\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "TpFinalClinica\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\Repositorios de github\\TpFinalClinica\\TpFinalClinica\\WebForm1.aspx",
+              "RelativeToolTip": "TpFinalClinica\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-25T14:27:17.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MiMaster.Master",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\Repositorios de github\\TpFinalClinica\\TpFinalClinica\\MiMaster.Master",
+              "RelativeDocumentMoniker": "TpFinalClinica\\MiMaster.Master",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\Repositorios de github\\TpFinalClinica\\TpFinalClinica\\MiMaster.Master",
+              "RelativeToolTip": "TpFinalClinica\\MiMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-25T14:04:12.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TurnoTrabajo.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\Repositorios de github\\TpFinalClinica\\Dominio\\TurnoTrabajo.cs",
+              "RelativeDocumentMoniker": "Dominio\\TurnoTrabajo.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\Repositorios de github\\TpFinalClinica\\Dominio\\TurnoTrabajo.cs",
+              "RelativeToolTip": "Dominio\\TurnoTrabajo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T13:55:23.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Login.aspx",
               "DocumentMoniker": "C:\\Users\\Pc\\Documents\\Repositorios de github\\TpFinalClinica\\TpFinalClinica\\Login.aspx",
               "RelativeDocumentMoniker": "TpFinalClinica\\Login.aspx",
